@@ -1,0 +1,65 @@
+{
+    "hash": "32303f0def95f66b6184059eef5e9fd6998e3e8777d5f52246ef0272a24e6c3c",
+    "inputs": [
+        {
+            "address": "addr1qxuq7rzpqme849sgz6hd4340e5gq45j2hnmf799vlqqzum672c2aaue7x6cvuf6tk6wnwyw0xms7gwf53qlua4gvsreq7zuqy8",
+            "amount": [
+                {
+                    "unit": "lovelace",
+                    "quantity": "24591936712"
+                }
+            ],
+            "tx_hash": "e8b7a51580654da98ca6890821f72b6eead471217472670419d1c46e89323823",
+            "output_index": 1,
+            "data_hash": null,
+            "inline_datum": null,
+            "reference_script_hash": null,
+            "collateral": false,
+            "reference": false
+        }
+    ],
+    "outputs": [
+        {
+            "address": "DdzFFzCqrhst6RgdBxKuHtZPv9X6kgJ7SBBTeSQdgQeJY5PSEC3X7j8NZ3cVSmovkd2SDGz2sdWBpQ32tBUoSazKxao3nwbDAQa3bq3s",
+            "amount": [
+                {
+                    "unit": "lovelace",
+                    "quantity": "3500000000"
+                }
+            ],
+            "output_index": 0,
+            "data_hash": null,
+            "inline_datum": null,
+            "collateral": false,
+            "reference_script_hash": null
+        },
+        {
+            "address": "addr1qxfuz9zhq5usplkhveuypy3cz6tpmjk40ml34chv032dg0z72c2aaue7x6cvuf6tk6wnwyw0xms7gwf53qlua4gvsreqawqjxv",
+            "amount": [
+                {
+                    "unit": "lovelace",
+                    "quantity": "3500000000"
+                }
+            ],
+            "output_index": 1,
+            "data_hash": null,
+            "inline_datum": null,
+            "collateral": false,
+            "reference_script_hash": null
+        },
+        {
+            "address": "addr1qxfuz9zhq5usplkhveuypy3cz6tpmjk40ml34chv032dg0z72c2aaue7x6cvuf6tk6wnwyw0xms7gwf53qlua4gvsreqawqjxv",
+            "amount": [
+                {
+                    "unit": "lovelace",
+                    "quantity": "17591764523"
+                }
+            ],
+            "output_index": 2,
+            "data_hash": null,
+            "inline_datum": null,
+            "collateral": false,
+            "reference_script_hash": null
+        }
+    ]
+}

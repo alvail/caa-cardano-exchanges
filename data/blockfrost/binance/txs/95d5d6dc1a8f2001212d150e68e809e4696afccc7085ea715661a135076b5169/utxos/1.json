@@ -1,0 +1,51 @@
+{
+    "hash": "95d5d6dc1a8f2001212d150e68e809e4696afccc7085ea715661a135076b5169",
+    "inputs": [
+        {
+            "address": "addr1q9vlx7z34tjdmyehuyr9mymah7uwvh2d9tvcvzrync77ermhgvaj5erdejhwhdunm8qh46pa6acl3p0sdxnakeq3czysy9t57l",
+            "amount": [
+                {
+                    "unit": "lovelace",
+                    "quantity": "6089041267"
+                }
+            ],
+            "tx_hash": "e77a6542791d736cf49da3fbefe3617cb5fc172c3f915acfae1f784ecb2927a4",
+            "output_index": 0,
+            "data_hash": null,
+            "inline_datum": null,
+            "reference_script_hash": null,
+            "collateral": false,
+            "reference": false
+        }
+    ],
+    "outputs": [
+        {
+            "address": "addr1q9rfkuw34z3svtddn7jl6htymgwcxelnuc76esjtrnw6m6qzhzuk0cx4r5c2pw94087y0gak4mhw8vrrmjq60h6x9jjsc3hul4",
+            "amount": [
+                {
+                    "unit": "lovelace",
+                    "quantity": "6085864854"
+                }
+            ],
+            "output_index": 0,
+            "data_hash": null,
+            "inline_datum": null,
+            "collateral": false,
+            "reference_script_hash": null
+        },
+        {
+            "address": "addr1q9vlx7z34tjdmyehuyr9mymah7uwvh2d9tvcvzrync77ermhgvaj5erdejhwhdunm8qh46pa6acl3p0sdxnakeq3czysy9t57l",
+            "amount": [
+                {
+                    "unit": "lovelace",
+                    "quantity": "3000000"
+                }
+            ],
+            "output_index": 1,
+            "data_hash": null,
+            "inline_datum": null,
+            "collateral": false,
+            "reference_script_hash": null
+        }
+    ]
+}

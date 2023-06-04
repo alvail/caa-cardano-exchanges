@@ -1,0 +1,63 @@
+{
+    "hash": "f6411211f29406630fb688d7fc303964051c2e7ebe3d7c65ce2419755c6d36a0",
+    "inputs": [
+        {
+            "address": "addr1q8egvxy5fa4e3zc6gw6hzk9ztkst4j2ycupzze7ys8qkagtu5tht5hl9m5k7zpn8a7x0svefpvnmkfldgjzkeqcee5jqacu4pz",
+            "amount": [
+                {
+                    "unit": "lovelace",
+                    "quantity": "1235973151"
+                },
+                {
+                    "unit": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51",
+                    "quantity": "6882245"
+                }
+            ],
+            "tx_hash": "6d12a9c2bb828015b589a7579a1dd08331a8a9a9d7aa767c8fa5bd1303bda5fb",
+            "output_index": 1,
+            "data_hash": null,
+            "inline_datum": null,
+            "reference_script_hash": null,
+            "collateral": false,
+            "reference": false
+        }
+    ],
+    "outputs": [
+        {
+            "address": "addr1qx688yd5pcl2sesuvzg25zasj8ac7xg42r8xsuc9s84pcedgvj2vzzg8p7r3evn3edznqa5jsfpalz9zykewr05pfqzse0qkuq",
+            "amount": [
+                {
+                    "unit": "lovelace",
+                    "quantity": "1344798"
+                },
+                {
+                    "unit": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51",
+                    "quantity": "1020000"
+                }
+            ],
+            "output_index": 0,
+            "data_hash": null,
+            "inline_datum": null,
+            "collateral": false,
+            "reference_script_hash": null
+        },
+        {
+            "address": "addr1q97z4vqfquyj5j3f9sefe0t2ha2t2kspg5snxdrxlg2qzpnu5tht5hl9m5k7zpn8a7x0svefpvnmkfldgjzkeqcee5jqdwyga7",
+            "amount": [
+                {
+                    "unit": "lovelace",
+                    "quantity": "1234456428"
+                },
+                {
+                    "unit": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51",
+                    "quantity": "5862245"
+                }
+            ],
+            "output_index": 1,
+            "data_hash": null,
+            "inline_datum": null,
+            "collateral": false,
+            "reference_script_hash": null
+        }
+    ]
+}

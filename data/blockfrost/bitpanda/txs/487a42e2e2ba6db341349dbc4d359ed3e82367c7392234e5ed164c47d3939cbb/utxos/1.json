@@ -1,0 +1,67 @@
+{
+    "hash": "487a42e2e2ba6db341349dbc4d359ed3e82367c7392234e5ed164c47d3939cbb",
+    "inputs": [
+        {
+            "address": "addr1vypr00ss7hkqejmvh53xkyf0p9q0a4z2uprxmx6njc463vgst3pe4",
+            "amount": [
+                {
+                    "unit": "lovelace",
+                    "quantity": "7685845"
+                }
+            ],
+            "tx_hash": "60fa242a6d16f2be2f258a894bc8b09fdb7a2169c07aa4b6167ea9337cab8221",
+            "output_index": 1,
+            "data_hash": null,
+            "inline_datum": null,
+            "reference_script_hash": null,
+            "collateral": false,
+            "reference": false
+        },
+        {
+            "address": "addr1vxxt7hj7tyr7l3lc9hfgqhv5d25vhcccpsma8ff2x68h47qlyk9j9",
+            "amount": [
+                {
+                    "unit": "lovelace",
+                    "quantity": "11189176"
+                }
+            ],
+            "tx_hash": "adc8e7bc638d11fd513059df8212f930eaa440e28aebbb18b3fdf9ff4ec6549b",
+            "output_index": 0,
+            "data_hash": null,
+            "inline_datum": null,
+            "reference_script_hash": null,
+            "collateral": false,
+            "reference": false
+        }
+    ],
+    "outputs": [
+        {
+            "address": "addr1qyfeerlwqkuurht756xueftd757qrmzsmlp3v34r0p4vdyrx5uwa85u274prfyeyf4wepgfjc6l60jes04n2wax5euls240pfs",
+            "amount": [
+                {
+                    "unit": "lovelace",
+                    "quantity": "10076500"
+                }
+            ],
+            "output_index": 0,
+            "data_hash": null,
+            "inline_datum": null,
+            "collateral": false,
+            "reference_script_hash": null
+        },
+        {
+            "address": "addr1vypr00ss7hkqejmvh53xkyf0p9q0a4z2uprxmx6njc463vgst3pe4",
+            "amount": [
+                {
+                    "unit": "lovelace",
+                    "quantity": "8618500"
+                }
+            ],
+            "output_index": 1,
+            "data_hash": null,
+            "inline_datum": null,
+            "collateral": false,
+            "reference_script_hash": null
+        }
+    ]
+}

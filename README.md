@@ -1,5 +1,4 @@
-"# caa-cardano-exchanges" 
+# caa-cardano-exchanges
 
-## API-Key Handling
-create .env file in main folder to store your API-Key in
+Analysis of Bitpanda exchange network and Binance Stakepool network to  discover exchange operation characteristics
 
